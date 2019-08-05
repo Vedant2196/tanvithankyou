@@ -24,7 +24,7 @@ body {
 
 #borderimg{
     border: 40px solid transparent;
-    border-image: url("https://mdn.mozillademos.org/files/6017/border-image-6.svg") 30% round;
+    border-image: url("border.png") 15% round;
 }
 
 .main{
